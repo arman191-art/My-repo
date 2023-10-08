@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Top-H {
+  position: relative;
+  padding-left: 20px;
+  padding-top: 20px;
+  background-color: #362222;
+  color: #FDD5B2;
+  height: 200px;
+
+}
+
+.Bottom-H {
+  position: absolute;
+  color: #F0FFF0;
+
+}
